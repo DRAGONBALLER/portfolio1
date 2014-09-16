@@ -1,10 +1,10 @@
 body {
-	 background-color: #6495ed;
+	 background-image: url(biru.jpg);
 
 }
 .about-me {
 	text-align:center;
-	background-color: #f2873f; 
+	background-image: url(orange.jpg); 
 	background-size: 400px;
 }
 
@@ -46,8 +46,13 @@ div{
 
 .art{
 	text-align: center;
-	background-color: orange;
+	background-image: url(orange.jpg);
 }
+
+
+
+
+
  
 	
 	
