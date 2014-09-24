@@ -72,7 +72,29 @@ div{
 }
 
 @media screen and (max-width:640px){
+	.row{
+		width: 100%
+	}
+	
+	.col-xs-3{
+		width: 100%
+	}
+	
+	.list-group-item{
+		width: 100%
+	}
+	
+	.art{
+		width: 100%
+	}
 
+	
+}
+
+@media screen and (max-width:320px){
+	.container{
+		width: 320px;
+	}
 }
 
 
