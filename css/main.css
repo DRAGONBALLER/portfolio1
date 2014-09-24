@@ -26,11 +26,7 @@ div{
 	border:0 ;
 }
 
-.col-xs-9{
 
-	
-
-}
 
 .col-xs-3{
 	border: 0;
@@ -49,7 +45,27 @@ div{
 	background-image: url(orange.jpg);
 }
 
-@media screen and (max-width:)
+@media screen and (max-width:959px){
+	.container{
+		width: 100%;
+	}
+	.row{
+		width: 25%
+	}
+	
+	.col-xs-3{
+		width: 25%
+	}
+	
+	.list-group-item{
+		width: 25%
+	}
+	
+	.art{
+		width: 25%
+	}
+
+}
 
 
 
