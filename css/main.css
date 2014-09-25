@@ -1,5 +1,5 @@
 body {
-	 background-image: url(biru.jpg);
+	 background-image: url(earth.jpg);
 
 }
 .about-me {
@@ -30,6 +30,11 @@ div{
 
 .col-xs-3{
 	border: 0;
+
+	margin-top: 5px
+
+	
+
 }
 
 .list-group-item{
@@ -69,6 +74,10 @@ div{
 		width: 100px;
 	}
 
+	iframe{
+		width: 100px
+	}
+
 }
 
 @media screen and (max-width:640px){
@@ -87,6 +96,9 @@ div{
 	.art{
 		width: 100%
 	}
+	iframe{
+		width: 100px
+	}
 
 	
 }
@@ -99,11 +111,6 @@ div{
 
 
 
-
-
- 
-	
-	
 
 
 
