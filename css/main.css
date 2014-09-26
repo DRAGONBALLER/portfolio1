@@ -37,6 +37,10 @@ div{
 
 }
 
+.col-xs-7{
+	border: 0;
+}
+
 .list-group-item{
 	border: 0;
 
